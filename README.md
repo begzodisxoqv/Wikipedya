@@ -1,0 +1,2 @@
+# Wikipedya
+bot
